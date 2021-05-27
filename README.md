@@ -3,7 +3,7 @@
 Updated Coranvirus Api Designed with  HTML5, CSS3 and JavaScript
 
 
-## Open Weather Map Api is Used to built this project 
+## Corona Lmao Ninja Api is Used to built this project 
 
 <h3 align="center">
         <a href="https://vikasinder.github.io/Canada---CronaVirus-Data-Api-Enabled-Application/">Click Here For Preview</a>
